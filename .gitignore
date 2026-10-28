@@ -1,0 +1,8 @@
+game
+*.exe
+*.bin
+*.bak
+sram*
+conf
+000
+*.tmp
